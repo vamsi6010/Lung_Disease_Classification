@@ -30,6 +30,8 @@ https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 | pneumonia test data  | 20|| pneumonia train data  | 70|
 | Total test data   | 66|| Total train data   | 251|
 
+InceptionV3 :
+Inception V3 by Google is the 3rd version in a series of Deep Learning Convolutional Architectures. Inception V3 was trained using a dataset of 1,000 classes (See the list of classes here) from the original ImageNet dataset which was trained with over 1 million training images, the Tensorflow version has 1,001 classes which is due to an additional "background' class not used in the original ImageNet. Inception V3 was trained for the ImageNet Large Visual Recognition Challenge where it was a first runner up.
 
-| Accuracy | 97.21% |
-| LOss     | 09.23% |
+![This is an image](https://www.apriorit.com/images/articles/applying_inception_v3/figure-1.jpg)
+
