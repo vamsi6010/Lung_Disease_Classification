@@ -31,3 +31,5 @@ https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 | Total test data   | 66|| Total train data   | 251|
 
 
+| Accuracy | 97.21% |
+| LOss     | 09.23% |
