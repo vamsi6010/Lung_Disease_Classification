@@ -25,12 +25,13 @@ https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 
 ## Dataset count
 
-| Test Data              | count |  
-| ----------------- | ----|
-| covid test data  | 26  || covid train data  | 111  |
-| Normal test data  | 20|| Normal train data  | 70|
-| pneumonia test data  | 20|| pneumonia train data  | 70|
-| Total test data   | 66|| Total train data   | 251|
+| Test Data   |Count | Train data  | Count   | Total   | 
+| ------------- | ------------- |------------- |------------- |------------- |
+| Pneumonia   | 20  | Pneumonia  | 70  | 90  |
+| Normal  | 20  | Normal  | 70  | 90|
+| Covid19  | 26  | Covid19  | 111  | 137  |
+| Total   |66 | Total  |   251 | 317   | 
+
 
 ## InceptionV3 :
 
