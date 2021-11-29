@@ -15,12 +15,14 @@ and Adam optimizer.
 Data-set link: 
 
 https://www.kaggle.com/pranavraikokte/covid19-image-dataset
+
 ## Packages used
 
 - Tensorflow
 - Numpy 
 - Matplotlib
 - Glob
+
 ## Dataset count
 
 | Test Data              | count |  
