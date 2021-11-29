@@ -34,6 +34,6 @@ https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 
 Inception V3 by Google is the 3rd version in a series of Deep Learning Convolutional Architectures. Inception V3 was trained using a dataset of 1,000 classes (See the list of classes here) from the original ImageNet dataset which was trained with over 1 million training images, the Tensorflow version has 1,001 classes which is due to an additional "background' class not used in the original ImageNet. Inception V3 was trained for the ImageNet Large Visual Recognition Challenge where it was a first runner up.
 
-## Archtecture 
+## Architecture 
 ![This is an image](https://www.apriorit.com/images/articles/applying_inception_v3/figure-1.jpg)
 
