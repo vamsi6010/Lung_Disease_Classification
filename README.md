@@ -32,6 +32,17 @@ https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 | Covid19  | 26  | Covid19  | 111  | 137  |
 | Total   |66 | Total  |   251 | 317   | 
 
+# Total no of Parameters
+| Parameters | No of parameters|
+| ----------| ------------------|
+|Trainable Parameters | 153, 603|
+|Non - Trainable Prameters| 21,802,784|
+|Total Parameters | 21,956,387|
+
+## Accuracy
+|Accuracy | 97%|
+|---------------|-----------|
+
 
 ## InceptionV3 :
 
